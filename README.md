@@ -1,4 +1,4 @@
-# PRINCIPLES OF FLIGHT - CORRECTED ANSWERS
+# PRINCIPLES OF FLIGHT 
 
 ## 1. The static pressure of gases work...
 **in all directions**
