@@ -1,601 +1,301 @@
-# PRINCIPLES OF FLIGHT - COMPLETE ANSWERS WITH OPTIONS
+# PRINCIPLES OF FLIGHT - CORRECTED ANSWERS
 
 ## 1. The static pressure of gases work...
-- ***in all directions***
-- only in flow direction.
-- only in the direction of the total pressure.
-- only vertical to the flow direction.
+**in all directions**
 
 ## 2. Bernoulli's equation for frictionless, incompressible gases states that...
-- total pressure = dynamic pressure - static pressure.
-- static pressure = total pressure + dynamic pressure.
-- dynamic pressure = total pressure + static pressure.
-- ***total pressure = dynamic pressure + static pressure***
+**total pressure = dynamic pressure + static pressure**
 
 ## 3. When air flows through a pipe with changing cross sections, the static pressure changes. The total pressure...
-- increases proportionally.
-- reduces proportionally.
-- ***does not change***
-- changes proportionally.
+**does not change**
 
 ## 4. If surrounded by airflow (v>0), any arbitrarily shaped body produces...
-- drag.
-- constant drag at any speed.
-- ***drag and lift***
-- lift without drag.
+**drag and lift**
 
 ## 5. The "angle of attack" is the angle between...
-- the aircraft's longitudinal axis and the relative airflow.
-- the aircraft's longitudinal axis and the chord line.
-- ***the chord line and the relative airflow***
-- the chord line of the elevator and the chord line of the wing.
+**the chord line and the relative airflow**
 
 ## 6. All aerodynamic forces can be considered to act on a single point. This point is called...
-- center of gravity.
-- ***center of pressure***
-- lift point.
-- transition point.
+**center of pressure**
 
 ## 7. Which answer describes the term "aerodynamic force"?
-- Component of the lifting force in airflow direction
-- Sum of the vectors of lift and weight force
-- ***Sum of the vectors of lift and drag force***
-- Difference of the vectors of lift and weight force
+**Sum of the vectors of lift and drag force**
 
 ## 8. "Profile depth" is the distance between the...
-- ***leading edge and trailing edge of a profile***
-- wing root and the wing tip.
-- profile's lower and upper edge at the thickest point.
-- profile's lower and upper edge at the thinnest point.
+**leading edge and trailing edge of a profile**
 
 ## 9. The illustrated profile is a / an...
-- normal profile.
-- ***symmetrical profile***
-- laminar profile.
-- S-profile.
+**symmetrical profile**
 
 ## 10. The ratio of span and mean chord length is referred to as...
-- wing sweep.
-- trapezium shape.
-- tapering.
-- ***aspect ratio***
+**aspect ratio**
 
 ## 11. Which wing shape has the highest induced drag?
-- ***Rectangular wing***
-- Trapeze-shaped wing
-- Ellipsoidal wing
-- Triangular-shaped wing
+**Rectangular wing**
 
 ## 12. When the rigging angle of incidence of a wing is smaller on the outer side than on the inner (on the root), that is called...
-- ***geometric twist***
-- V-shape.
-- aerodynamic twist.
-- aerodynamic torsion.
+**geometric twist**
 
 ## 13. The start of vortex development is created during which phase of flight?
-- While setting take-off power during take-off run
-- While setting flaps to lower position
-- As soon as the aircraft starts moving
-- ***When lift is being generated during rotation***
+**When lift is being generated during rotation**
 
 ## 14. What occurs at the "transition point"?
-- The change from turbulent to laminar airflow
-- ***The change from laminar to turbulent airflow***
-- The lateral tilting of the aircraft with stall
-- Reaching the maximum lift coefficient
+**The change from laminar to turbulent airflow**
 
 ## 15. What pattern can be found at the stagnation point?
-- The laminar boundary layer changes into a turbulent boundary layer
-- ***Streamlines are divided into airflow above and below the profile***
-- The boundary layer starts separating on the upper surface of the profile
-- All aerodynamic forces can be considered as attacking at this single point
+**Streamlines are divided into airflow above and below the profile**
 
 ## 16. Which of the following options describes the pressure pattern at a lift-generating wing profile passed by airflow?
-- Pressure below remains unchanged, lower pressure is created above the profile
-- High pressure is created above, lower pressure below the profile
-- ***Low pressure is created above, higher pressure below the profile***
-- Pressure above remains unchanged, higher pressure is created below the profile
+**Low pressure is created above, higher pressure below the profile**
 
 ## 17. The position of the center of pressure at a positively shaped profile...
-- moves to the trailing edge while the angle of attack becomes smaller.
-- does not move since it is independent of the angle of attack.
-- ***moves to the leading edge while the angle of attack becomes smaller***
-- is located at approximately 25% of the chord, measured from the leading edge.
+**moves to the trailing edge while the angle of attack becomes smaller**
 
 ## 18. A symmetrical profile...
-- does not produce lift.
-- has the least induced drag with a positive attack angle.
-- ***has a non-moving center of pressure***
-- can only be flown upside-down.
+**has a non-moving center of pressure**
 
 ## 19. Which statement about lift and angle of attack is correct?
-- ***Increasing the angle of attack too far may result in a loss of lift and an airflow separation***
-- Increasing the angle of attack results in less lift being generated by the aerofoil
-- Decreasing the angle of attack results in more lift being generated by the aerofoil
-- Too large angles of attack can lead to an exponential increase in lift
+**Increasing the angle of attack too far may result in a loss of lift and an airflow separation**
 
 ## 20. Which statement about the airflow around an aerofoil is correct if the angle of attack decreases?
-- The center of pressure moves forward
-- The stagnation point moves down
-- The stagnation point remains constant
-- ***The center of pressure moves aft***
+**The center of pressure moves aft**
 
 ## 21. The lift on an airfoil can be directly changed during flight...
-- by changing the angle of incidence.
-- ***by changing the angle of attack***
-- by changing the trim.
-- under no circumstances.
+**by changing the angle of attack**
 
 ## 22. Which option states a benefit of aerodynamic washout?
-- ***At high angles of attack the effectiveness of the aileron is retained as long as possible***
-- Structurally the wing is made more rigid against rotation
-- Greater hardness because the wing can withstand more torsion forces
-- With the washout the form drag reduces at high speeds
+**At high angles of attack the effectiveness of the aileron is retained as long as possible**
 
 ## 23. Where does "separation" on the aerofoil set in and in which direction does it move with increasing angle of attack?
-- On the leading edge of the profile, movement in airflow direction
-- On the entire upper side of the profile at the same time
-- ***At the profile's upper side at the trailing edge, movement opposite to the airflow direction***
-- On the profile's lower side behind the transition point, movement in airflow direction
+**At the profile's upper side at the trailing edge, movement opposite to the airflow direction**
 
 ## 24. Which statement concerning the angle of attack is correct?
-- Increasing the angle of attack results in decreasing lift
-- The angle of attack cannot be negative
-- The angle of attack is constant throughout the flight
-- ***A too large angle of attack may result in a loss of lift***
+**A too large angle of attack may result in a loss of lift**
 
 ## 25. How do lift and drag change with decreasing air density (all other parameters remaining constant)?
-- They do not change
-- Lift will increase, drag will decrease
-- ***Lift and drag will decrease***
-- Lift will decrease, drag will increase
+**Lift and drag will decrease**
 
 ## 26. Lift depends on...
-- lift coefficient, speed, air temperature, projected airfoil area.
-- ***lift coefficient, square of the speed, air density, projected airfoil area***
-- flight weight force, speed, air density, projected airfoil area.
-- flight weight force, engine power, air density, projected airfoil area.
+**lift coefficient, square of the speed, air density, projected airfoil area**
 
 ## 27. The drag coefficient...
-- ***cannot be lower than a non-negative, minimal value***
-- may range from zero to an infinite positive value.
-- increases with increasing airspeed.
-- is proportional to the lift coefficient.
+**cannot be lower than a non-negative, minimal value**
 
 ## 28. Which of the following answers characterises a thick profile compared to a thin profile at the same speed? The thick profile generates...
-- more drag and less lift.
-- ***more drag and more lift***
-- more drag and equal lift.
-- equal drag and more lift.
+**more drag and more lift**
 
 ## 29. How does the drag of the aircraft change when the speed is doubled? It...
-- doubles.
-- remains the same.
-- ***quadruples***
-- Triples
+**quadruples**
 
 ## 30. Pressure compensation on an aerofoil occurs at the...
-- leading edge.
-- wing tips.
-- ***trailing edge***
-- wing roots.
+**wing tips**
 
 ## 31. Which of the following options is likely to produce large induced drag?
-- Large aspect ratio
-- Tapered wings
-- ***Small aspect ratio***
-- Low lift coefficients
+**Small aspect ratio**
 
 ## 32. Induced drag is generated...
-- at the outer part of the ailerons.
-- ***at the trailing edge of the wing***
-- at the front part of the aisle.
-- at the lower part of the gear.
+**at the trailing edge of the wing**
 
 ## 33. Where is interference drag generated?
-- At the ailerons
-- At the gear
-- Near the wing tips
-- ***At the wing root***
+**At the wing root**
 
 ## 34. Pressure drag, interference drag and friction drag belong to the group of the...
-- induced drag.
-- total drag.
-- ***parasite drag***
-- main resistance.
+**parasite drag**
 
 ## 35. Which effect does a decreasing airspeed have on the induced drag during a horizontal and stable cruise flight?
-- ***The induced drag will increase***
-- The induced drag will slightly decrease
-- The induced drag will remain constant
-- The induced drag will collapse
+**The induced drag will increase**
 
 ## 36. How do induced drag and parasite drag change with increasing airspeed during a horizontal and stable cruise flight?
-- ***Induced drag decreases and parasite drag increases***
-- Induced drag increases and parasite drag increases
-- Parasite drag decreases and induced drag increases
-- Parasite drag decreases and induced drag decreases
+**Induced drag decreases and parasite drag increases**
 
 ## 37. Which body of the same cross-sectional area has the smallest drag with the same inflowing air speed?
-- Plain disc
-- ***Streamlined body***
-- Hollow hemisphere
-- Sphere
+**Streamlined body**
 
 ## 38. How do lift and drag change when approaching a stall condition?
-- Lift and drag increase
-- Lift and drag decrease
-- ***Lift decreases and drag increases***
-- Lift increases and drag decreases
+**Lift decreases and drag increases**
 
 ## 39. During a stall, the lift...
-- increases and drag decreases.
-- increases and drag increases.
-- decreases and drag decreases.
-- ***decreases and drag increases***
+**decreases and drag increases**
 
 ## 40. The critical angle of attack...
-- ***is independent of the weight***
-- decreases with forward center of gravity position.
-- increases with backward center of gravity position.
-- changes with increasing weight.
+**is independent of the weight**
 
 ## 41. A strong decrease of lift can suddenly occur...
-- ***when getting close to the stall speed***
-- when the flaps are extended.
-- when the engine power is reduced.
-- when the propeller is set to low RPM / large pitch.
+**when getting close to the stall speed**
 
 ## 42. The stall warning will be activated just before reaching which speed?
-- VNE
-- ***VS***
-- VR
-- VX
+**VS**
 
 ## 43. With increasing wing load, the minimum flight speed...
-- decreases.
-- ***increases***
-- remains constant.
-- is dependent only on the flap position.
+**increases**
 
 ## 44. The "twist" of the aerofoil causes...
-- the airflow on the outer wing to stall sooner at high angles of attack and the induced drag to decrease.
-- the airflow on the inner wing to stall sooner at high angles of attack and the induced drag to decrease.
-- ***the airflow to stall later in the area of the aileron and the induced drag to increase***
-- the airflow to stall sooner in the area of the aileron and the induced drag to decrease.
+**the airflow to stall later in the area of the aileron and the induced drag to increase**
 
 ## 45. In motorplanes the stall warning is usually activated by a change of...
-- the center of pressure.
-- the center of gravity.
-- ***the stagnation point***
-- the transition point.
+**the stagnation point**
 
 ## 46. Which statement regarding a spin is correct?
-- ***During recovery the ailerons should be kept neutral***
-- During the spin the speed constantly increases
-- Only very old aeroplanes have a risk of spinning
-- During recovery the ailerons should be crossed
+**During recovery the ailerons should be kept neutral**
 
 ## 47. How do lift and drag change when setting flaps to a lower position?
-- ***Lift increases, drag increases***
-- Lift increases, drag decreases
-- Lift decreases, drag increases
-- Lift decreases, drag decreases
+**Lift increases, drag increases**
 
 ## 48. With regard to flaps, which of the following options provides a lift-increasing effect?
-- Decreasing the form drag
-- ***Increasing the aerofoil camber***
-- Decreasing the angle of attack
-- Lowering the induced drag
+**Increasing the aerofoil camber**
 
 ## 49. What kind of landing aids may not be retracted suddenly near the ground?
-- Spoilers
-- Airbrakes
-- ***Flaps***
-- Schempp-Hirth flaps
+**Flaps**
 
 ## 50. A take-off with flaps in take-off position causes...
-- an increased rate of climb.
-- a decrease in drag.
-- an increased acceleration.
-- ***a shortening of the take-off run***
+**a shortening of the take-off run**
 
 ## 51. Which effect (among others) causes lift to increase when extending the landing flaps?
-- Reduction of the form drag
-- ***Enlargement of the profile camber***
-- Reduction of the angle of attack
-- Reduction of the induced drag
+**Enlargement of the profile camber**
 
 ## 52. How does extending the flaps to landing position affect the final approach (engine idle)?
-- Minimum speed is smaller, the glide path remains the same
-- Minimum speed is greater, the glide path remains the same
-- Minimum speed remains the same, the glide path is steeper
-- ***Minimum speed is smaller, the glide path is steeper***
+**Minimum speed is smaller, the glide path is steeper**
 
 ## 53. When taking off with the flaps extended (take-off position)...
-- the climb rate increases.
-- the rotation speed increases.
-- ***the take-off ground roll is shortened***
-- the acceleration increases.
+**the take-off ground roll is shortened**
 
 ## 54. The laminar layer on the aerofoil is located between...
-- the transition point and the separation point.
-- ***the stagnation point and the transition point***
-- the stagnation point and the center of pressure.
-- the transition point and the center of pressure.
+**the stagnation point and the transition point**
 
 ## 55. What types of boundary layers can be found on an aerofoil?
-- Laminar boundary layer along the complete upper surface with non-separated airflow
-- Turbulent boundary layer along the complete upper surface with separated airflow
-- Turbulent layer at the leading wing areas, laminar boundary layer at the trailing areas
-- ***Laminar layer at the leading wing areas, turbulent boundary layer at the trailing areas***
+**Laminar layer at the leading wing areas, turbulent boundary layer at the trailing areas**
 
 ## 56. Which answer explains the term "boundary layer"?
-- The turbulences which arise with the combination of different assemblies of the aircraft
-- ***The layer in which the airflow speed increases from zero up to full speed of the airflow***
-- The circulating part of the airfoil-fuselage flows
-- The air molecules which are subject to turbulence after the transition point
+**The layer in which the airflow speed increases from zero up to full speed of the airflow**
 
 ## 57. The laminar boundary layer is situated between...
-- transition point and trim edge.
-- transition point and separation point.
-- stagnation point and pressure point.
-- ***stagnation point and transition point***
+**stagnation point and transition point**
 
 ## 58. In icing conditions, at which point will the most ice arise on an aeroplane?
-- On the upper and lower side of the control surfaces
-- On the pitot tube and the static pressure ports
-- On the upper und lower side of the wing's trailing edge
-- ***On all frontal areas of the airframe, the wings, and the tail***
+**On all frontal areas of the airframe, the wings, and the tail**
 
 ## 59. What structural item provides lateral stability to an airplane?
-- Vertical tail
-- Elevator
-- Differential aileron deflection
-- ***Wing dihedral***
+**Wing dihedral**
 
 ## 60. Which statement describes a situation of static stability?
-- An aircraft distorted by external impact will maintain the deflected position
-- ***An aircraft distorted by external impact will return to the original position***
-- An aircraft distorted by external impact will tend to an even more deflected position
-- An aircraft distorted by external impact can return to its original position by rudder input
+**An aircraft distorted by external impact will return to the original position**
 
 ## 61. Which force does NOT act during straight and level flight?
-- Lift force
-- ***Centrifugal force***
-- Gravitational force
-- Drag force
+**Centrifugal force**
 
 ## 62. Stability around the lateral axis (longitudinal stability) is achieved by...
-- ***the effects and construction of the elevator unit***
-- the use of a V-tail.
-- a variable rigging angle of incidence of the wing.
-- a swept back wing.
+**the effects and construction of the elevator unit**
 
 ## 63. Stability of the vertical axis can be achieved...
-- by the vertical stabilizer only.
-- only by the rudder.
-- by the pendulum effect of the fuselage and wing dihedral.
-- ***by the vertical tail and the fuselage shape***
+**by the vertical tail and the fuselage shape**
 
 ## 64. Which constructive feature provides longitudinal stability to an airplane in normal configuration (empennage at tail)?
-- Differential aileron deflection
-- ***Downforce at the elevator***
-- Positive wing dihedral
-- Trim plate at the tailfin
+**Downforce at the elevator**
 
 ## 65. "Longitudinal stability" is referred to as stability around which axis?
-- Vertical axis
-- Longitudinal axis
-- ***Lateral axis***
-- Propeller axis
+**Lateral axis**
 
 ## 66. What is the purpose of the horizontal stabiliser?
-- Commencing turns around the vertical axis
-- Stabilising the aircraft around the longitudinal axis
-- Stabilising the aircraft around the vertical axis
-- ***Stabilising the aircraft around the lateral axis***
+**Stabilising the aircraft around the lateral axis**
 
 ## 67. Stability around which axis is strongly influenced by the center of gravity's position?
-- ***Longitudinal axis***
-- Vertical axis
-- Gravity axis
-- Lateral axis
+**Lateral axis** (Longitudinal stability)
 
 ## 68. What structural item provides directional stability to an airplane?
-- Wing dihedral
-- ***Large vertical tail***
-- Large elevator
-- Differential aileron deflection
+**Large vertical tail**
 
 ## 69. Rotation around the vertical axis is called...
-- ***yawing***
-- slipping.
-- rolling.
-- pitching.
+**yawing**
 
 ## 70. The movement around the vertical axis of the aircraft is called...
-- rolling.
-- pitching.
-- ***yawing***
-- slipping.
+**yawing**
 
 ## 71. The critical angle of attack...
-- decreases with a rear centre of gravity.
-- ***is not changed by different aircraft weights***
-- increases with a front centre of gravity.
-- is changed by different aircraft weights.
+**is not changed by different aircraft weights**
 
 ## 72. The elevator moves an aeroplane around the...
-- vertical axis.
-- ***lateral axis***
-- longitudinal axis.
-- elevator axis.
+**lateral axis**
 
 ## 73. The elevator deflection for a specific maneuver...
-- ***is increased with a front centre of gravity***
-- is increased at high speeds.
-- is increased with a rear centre of gravity.
-- is independent of the speed.
+**is increased with a front centre of gravity**
 
 ## 74. How can a pilot maintain the altitude during a co-ordinated steep turn?
-- The rudder is operated into the opposite direction
-- The rudder is operated in the rotating direction
-- ***The elevator is pulled accordingly***
-- The trim is set to nose-heavy
+**The elevator is pulled accordingly**
 
 ## 75. What has to be considered with regard to the center of gravity position?
-- ***Only correct loading can assure a correct and safe center of gravity position***
-- By moving the elevator trim tab, the center of gravity can be shifted into a correct position.
-- By moving the aileron trim tab, the center of gravity can be shifted into a correct position.
-- The center of gravity's position can only be determined during flight.
+**Only correct loading can assure a correct and safe center of gravity position**
 
 ## 76. Deflecting the rudder to the left causes...
-- yawing of the aircraft to the right.
-- ***yawing of the aircraft to the left***
-- pitching of the aircraft to the left.
-- pitching of the aircraft to the right.
+**yawing of the aircraft to the left**
 
 ## 77. The adverse-yaw effect can occur...
-- during steep turns with more than 45° bank angle.
-- with rudder deflection.
-- on the elevator at every speed range.
-- ***with aileron deflection during slow-flight conditions***
+**with aileron deflection during slow-flight conditions**
 
 ## 78. Which control affects primarily the movement around the longitudinal axis?
-- Rudder
-- ***Aileron***
-- Elevator
-- Trim
+**Aileron**
 
 ## 79. Differential aileron deflection is used to...
-- reduce wake turbulence.
-- avoid a stall at low angles of attack.
-- ***keep the adverse yaw low***
-- increase the rate of descent.
+**keep the adverse yaw low**
 
 ## 80. What is the advantage of differential aileron movement?
-- The adverse yaw is higher
-- The ratio of the drag coefficient to lift coefficient is increased
-- ***The drag of the downwards deflected aileron is lowered and the adverse yaw is smaller***
-- The total lift remains constant during aileron deflection
+**The drag of the downwards deflected aileron is lowered and the adverse yaw is smaller**
 
 ## 81. Which answer describes the term "adverse yaw momentum"?
-- A yawing momentum in the same direction as the rolling momentum
-- ***A yawing momentum opposite to the direction of the rolling momentum***
-- A rotation momentum around the longitudinal axis opposite to the aileron deflection
-- A rolling momentum additional to the rudder deflection
+**A yawing momentum opposite to the direction of the rolling momentum**
 
 ## 82. The aerodynamic rudder balance...
-- reduces the control surfaces.
-- ***reduces the control stick forces***
-- delays the stall.
-- improves the rudder effectiveness.
+**reduces the control stick forces**
 
 ## 83. What is the function of the static rudder balance?
-- ***To prevent control surface flutter***
-- To limit the control stick forces
-- To increase the control stick forces
-- To trim the controls almost without any force
+**To prevent control surface flutter**
 
 ## 84. During cruise flight with constant power setting, an aircraft shows a permanent tendency to raise the nose. How can this tendency be eliminated?
-- By shifting the center of gravity backwards
-- By elevator deflection upwards
-- By deflecting the elevator trim tab downwards
-- ***By deflecting the elevator trim tab upwards***
+**By deflecting the elevator trim tab upwards**
 
 ## 85. What is a bendable trim tab?
-- A balance mass at a control surface
-- A term for a rudder balance
-- A trim device adjustable in flight
-- ***A fixed tab attached to the rudder or the aileron***
+**A fixed tab attached to the rudder or the aileron**
 
-## 86. The trim tab at the elevator is defelected upwards. In which position is the corresponding indicator?
-- Neutral position
-- Laterally trimmed
-- Nose-up position
-- ***Nose-down position***
+## 86. The trim tab at the elevator is deflected upwards. In which position is the corresponding indicator?
+**Nose-down position**
 
 ## 87. What describes "wing loading"?
-- Wing area per weight
-- Drag per wing area
-- Drag per weight
-- ***Weight per wing area***
+**Weight per wing area**
 
 ## 88. The maximum permissible speed for an aircraft...
-- is compulsory for aerobatics.
-- cannot be achieved by a vertical nose down diving flight.
-- ***must never be exceeded***
-- should only be exceeded in still air.
+**must never be exceeded**
 
 ## 89. Which answer describes the "manoeuvring speed"?
-- ***Maximum speed with which abrupt, full control deflection***
-- Maximum speed for steep turns
-- Minimum speed for steep turns
-- Initial speed for aerobatic figures
+**Maximum speed with which abrupt, full control deflection is permitted**
 
 ## 90. Through which factor listed below does the load factor increase during cruise flight?
-- ***An upward gust***
-- Higher aeroplane weight
-- A forward centre of gravity
-- Lower air density
+**An upward gust**
 
 ## 91. Through which factor listed below does the load factor decrease during cruise flight?
-- ***A downward gust***
-- An aft centre of gravity
-- Higher air density
-- Lower aeroplane weight
+**A downward gust**
 
 ## 92. Which statement regarding the "constant-speed propeller" is correct?
-- The propeller keeps the airspeed constant
-- The pitch of the propeller rises with higher speeds
-- The RPM decreases with lower speeds
-- ***The set RPM is kept constant by the motor power (MAP)***
+**The set RPM is kept constant by the motor power (MAP)**
 
 ## 93. The change in pitch at a propeller blade from the root to the tip ensures...
-- ***a nearly constant load by a constant effective angle of attack over the entire length of the blade***
-- the largest possible angle of attack at the blade tip.
-- that the most thrust is produced at the blade root.
-- that the most thrust is produced at the blade tip.
+**a nearly constant load by a constant effective angle of attack over the entire length of the blade**
 
 ## 94. After an engine failure, the windmilling propeller...
-- ***generates drag rather than thrust***
-- generates neither thrust nor drag.
-- improves the properties of the glide.
-- has a greater pitch in feathered position.
+**generates drag rather than thrust**
 
 ## 95. During a descent at idle power with constant speed, the propeller lever is moved backwards. How do the propeller pitch and sink rate change?
-- ***Propeller pitch is increased, sink rate is decreased***
-- Propeller pitch is increased, sink rate is increased
-- Propeller pitch is decreased, sink rate is decreased
-- Propeller pitch is decreased, sink rate is increased
+**Propeller pitch is increased, sink rate is decreased**
 
 ## 96. How is the spin influenced when power is added during a left spin with a clockwise spinning engine?
-- ***It is enforced***
-- It is not influenced at all
-- It is strongly decreased
-- It decreases minimally
+**It is enforced**
 
 ## 97. Which answer defines the term "wing load"?
-- Maximum mass an aircraft can carry
-- Maximum take-off mass
-- ***Mass of the aircraft per wing surface area***
-- Mass of the air which the aircraft displaces
+**Mass of the aircraft per wing surface area**
 
 ## 98. After increasing the angle of attack during flight with best gliding speed, initially...
-- ***lift and drag increase***
-- lift and drag decrease.
-- lift decreases and drag increases.
-- lift increases and drag decreases.
+**lift and drag increase**
 
 ## 99. How is the balance of forces affected during a turn?
-- ***Lift force must be increased to compensate for the sum of centrifugal and gravitational force***
-- A lower lift force compensates for a lower net force as compared to level flight
-- The horizontal component of the lift force during a turn is the centrifugal force
-- The net force results from superposition of gravity and centripetal forces
+**Lift force must be increased to compensate for the sum of centrifugal and gravitational force**
 
 ## 100. The spin tendency of an aircraft is greater...
-- with a forward center of gravity position.
-- when trim is "nose-heavy".
-- ***with an aft center of gravity position***
-- when trim is "tail-heavy".
+**with an aft center of gravity position**
