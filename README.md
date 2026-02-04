@@ -10,7 +10,7 @@
 **does not change**
 
 ## 4. If surrounded by airflow (v>0), any arbitrarily shaped body produces...
-**drag and lift**
+**drag**
 
 ## 5. The "angle of attack" is the angle between...
 **the chord line and the relative airflow**
